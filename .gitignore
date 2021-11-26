@@ -9,3 +9,7 @@ buildNumber.properties
 .mvn/timing.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
+.idea
+.project
+stories.txt
+B23_-_TryCloud-BDD_cucumber_Assignment_.pdf
